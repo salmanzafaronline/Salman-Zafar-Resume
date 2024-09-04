@@ -1,14 +1,9 @@
 # Salman-Zafar-Resume
-My Resume for Full Stack Development Course at LUT University
-Salman Zafar
+My Resume for the Full Stack Development Course at LUT University
 
  
 
-System and Network Administrator | Cloud Engineer | Azure Certified |
-
-Virtualization Specialist | Managed IT Services Professional |
-
-IT Helpdesk Manager
+System and Network Administrator | Cloud Engineer | Azure Certified | Virtualization Specialist | Managed IT Services Professional | IT Helpdesk Manager
 
  
 
