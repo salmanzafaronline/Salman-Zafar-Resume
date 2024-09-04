@@ -1,4 +1,3 @@
-# SALMAN ZAFAR
 My Resume for the Full Stack Development Course at LUT University
 
  
@@ -19,11 +18,11 @@ Highly skilled IT Specialist with over 20 years of experience in Microsoft/Open-
 
  
 
-# Finland
+<h1>Finland</h1> 
 
  Pursuing Master’s Programme in Digital Systems & Service Development, LUT University
 
-# Pakistan
+<h1>Pakistan</h1> 
 
  Master of Computer Science, Shaheed Zulfiqar Ali Bhutto Institute of Science and Technology
 
@@ -82,7 +81,7 @@ Soft Skills:                              Logical thinking, Problem solving, Men
 # Professional Experience
 
 
-Federal Public Service Commission (FPSC), Islamabad
+<h1>Federal Public Service Commission (FPSC), Islamabad</h1>
 
 Network Administrator | Mar 2009 – Aug 2024
 
@@ -102,7 +101,7 @@ Network Administrator | Mar 2009 – Aug 2024
 
  
 
-United States Agency for International Development (USAID), Islamabad
+<h1>United States Agency for International Development (USAID), Islamabad</h1>
 
 Computer Management Assistant | Nov 2006 – Nov 2007
 
@@ -116,7 +115,7 @@ Computer Management Assistant | Nov 2006 – Nov 2007
 
  
 
-National University of Science and Technology, Islamabad
+<h1>National University of Science and Technology, Islamabad</h1>
 
 System Administrator | Apr 2005 – May 2006
 
@@ -130,7 +129,7 @@ System Administrator | Apr 2005 – May 2006
 
  
 
-International Islamic University, Islamabad
+<h1>International Islamic University, Islamabad</h1>
 
 Network/ Systems Engineer | Sep 2004 – Mar 2005
 
@@ -142,7 +141,7 @@ Network/ Systems Engineer | Sep 2004 – Mar 2005
 
  
 
-Pakistan Online, the Leading internet service provider, Islamabad
+<h1>Pakistan Online, the Leading internet service provider, Islamabad</h1>
 
 Network Engineer | Apr 2000 – Sep 2004
 
@@ -158,19 +157,21 @@ Network Engineer | Apr 2000 – Sep 2004
 
 #Contact                                                                                                     
 
-Languages
+<h1>Languages</h1>
+
+Finnish (Basic) | English (Fluent) | Urdu/Hindi (Native)
 
 Email: salmanzafaronline@gmail.com
 
-Finnish (Basic)
+
 
 Mobile/WhatsApp: +358 50 3365035
 
-English (Fluent)
+
 
 LinkedIn: https://www.linkedin.com/in/salmanzafaronline
 
-Urdu/Hindi (Native)
+
 
 Address: Mukkulankatu, 05210 Lahti, Finland
 
