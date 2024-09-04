@@ -1,4 +1,4 @@
-# Salman-Zafar-Resume
+# SALMAN ZAFAR
 My Resume for the Full Stack Development Course at LUT University
 
  
@@ -7,7 +7,7 @@ System and Network Administrator | Cloud Engineer | Azure Certified | Virtualiza
 
  
 
-Profile
+# Profile
 
  
 
@@ -15,15 +15,15 @@ Highly skilled IT Specialist with over 20 years of experience in Microsoft/Open-
 
  
 
-Education
+# Education
 
  
 
-Finland
+# Finland
 
  Pursuing Master’s Programme in Digital Systems & Service Development, LUT University
 
-Pakistan
+# Pakistan
 
  Master of Computer Science, Shaheed Zulfiqar Ali Bhutto Institute of Science and Technology
 
@@ -33,7 +33,7 @@ Pakistan
 
  
 
-Certification
+# Certification
 
  
 
@@ -41,7 +41,7 @@ Microsoft Certified Azure Fundamentals (AZ- 900)
 
  
 
-Training
+# Training
 
  
 
@@ -49,7 +49,7 @@ CCNA, MCSE, Linux Administration, MySQL, AI, Cybersecurity, Virtual Assistant, F
 
  
 
-Technical Skills and Tools
+# Technical Skills and Tools
 
 Hardware:                             Hardware:                             Switches, Fiber-Optics, ADSL Video Conferencing Equipment
 
@@ -79,7 +79,7 @@ Soft Skills:                              Logical thinking, Problem solving, Men
 
  
 
-Professional Experience
+# Professional Experience
 
 
 Federal Public Service Commission (FPSC), Islamabad
@@ -156,7 +156,7 @@ Network Engineer | Apr 2000 – Sep 2004
 
  
 
-Contact                                                                                                     
+#Contact                                                                                                     
 
 Languages
 
