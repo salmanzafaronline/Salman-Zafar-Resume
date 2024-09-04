@@ -81,7 +81,7 @@ Soft Skills:                              Logical thinking, Problem solving, Men
 # Professional Experience
 
 
-<h1>Federal Public Service Commission (FPSC), Islamabad</h1>
+<h2>Federal Public Service Commission (FPSC), Islamabad</h2>
 
 Network Administrator | Mar 2009 – Aug 2024
 
@@ -101,7 +101,7 @@ Network Administrator | Mar 2009 – Aug 2024
 
  
 
-<h1>United States Agency for International Development (USAID), Islamabad</h1>
+<h2>United States Agency for International Development (USAID), Islamabad</h2>
 
 Computer Management Assistant | Nov 2006 – Nov 2007
 
@@ -115,7 +115,7 @@ Computer Management Assistant | Nov 2006 – Nov 2007
 
  
 
-<h1>National University of Science and Technology, Islamabad</h1>
+<h2>National University of Science and Technology, Islamabad</h2>
 
 System Administrator | Apr 2005 – May 2006
 
@@ -129,7 +129,7 @@ System Administrator | Apr 2005 – May 2006
 
  
 
-<h1>International Islamic University, Islamabad</h1>
+<h2>International Islamic University, Islamabad</h2>
 
 Network/ Systems Engineer | Sep 2004 – Mar 2005
 
@@ -141,7 +141,7 @@ Network/ Systems Engineer | Sep 2004 – Mar 2005
 
  
 
-<h1>Pakistan Online, the Leading internet service provider, Islamabad</h1>
+<h2>Pakistan Online, the Leading internet service provider, Islamabad</h2>
 
 Network Engineer | Apr 2000 – Sep 2004
 
@@ -155,11 +155,9 @@ Network Engineer | Apr 2000 – Sep 2004
 
  
 
-#Contact                                                                                                     
+# Contact                                                                                                     
 
-<h1>Languages</h1>
-
-Finnish (Basic) | English (Fluent) | Urdu/Hindi (Native)
+Languages: Finnish (Basic) | English (Fluent) | Urdu/Hindi (Native)
 
 Email: salmanzafaronline@gmail.com
 
